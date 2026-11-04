@@ -1,4 +1,4 @@
-# Media networks and polarisation
+# Media ETL
 
 This repository collects articles from two Portuguese news outlets, Público and Observador. The name points at a study of media networks and polarisation. The code does not define or compute polarisation. It stops at article text plus the authors, tags, and newspaper name attached to each article.
 
